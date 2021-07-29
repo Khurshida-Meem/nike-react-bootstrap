@@ -1,0 +1,46 @@
+/* font family */
+/* bebas neue */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* utilities */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    line-height: 80px;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    line-height: 48px;
+    font-weight: 700;
+    color: #363958;
+}
+h3{
+    font-size: 24px;
+    color: #363958;
+    font-weight: 700;
+}
+header, .rating{
+    background-color: #FFF9F4;
+}
+.orange-text{
+    color: #FA804C;
+}
+.dark-text{
+    color: #363958;
+}
+.pink-bg{
+    background-color: blue;
+}
+p{
+    color: #3E3E3E;
+}
+
